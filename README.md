@@ -19,3 +19,6 @@ Location (e.g. src/ or src/mypackage) where assets folder should be inserted:
 ////////// LOCATION OF ASSETS //////////
 src/
 ///////////////////////////////////////////////////
+
+
+JAVAFX SDK NEEDED !!
