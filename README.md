@@ -21,4 +21,4 @@ src/
 ///////////////////////////////////////////////////
 
 
-JAVAFX SDK NEEDED !!
+JavaFX must be installed for this app, so it's recommended to use Java 11 or earlier, or to install JavaFX as a separate library.
